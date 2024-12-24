@@ -3,7 +3,7 @@
 BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliştirilmiş bir araç kiralama sistemidir.
 
 
-**🛠️ Katmanlı Mimari**
+### 🛠️ Katmanlı Mimari
 
 
 🧩 **Core:** Uygulamanın temel yapı taşlarını oluşturan arayüzler, Cors yapılandırmaları ve MediatR işlemleri.
@@ -15,7 +15,7 @@ BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliş
 🌍 **Frontend:** Kullanıcı arayüzü bileşenleri ve DTO'lar ile Web UI elemanları.
 
 
-**Kullanılan Teknolojiler**
+### Kullanılan Teknolojiler
 
 
 💻 **C# ve ASP.NET Core 8.0:** Backend geliştirme ve web API altyapısı.
@@ -31,7 +31,7 @@ BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliş
 🎨 **Bootstrap:** Responsive ve estetik bir tasarım için CSS framework'ü.
 
 
-**🔍 Kullanıcı İşlevleri**
+### 🔍 Kullanıcı İşlevleri
 
 
 📅 **Araç Arama ve Listeleme:** Kullanıcılar, başlangıç ve bitiş tarihleri ile lokasyon bilgisi girerek araçları arayabilir ve uygun araçları listeleyebilir.
