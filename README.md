@@ -44,10 +44,10 @@ BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliş
 
 💵 **Araç Fiyatlandırma (Car Pricing):** Araçlar için farklı kiralama seçenekleri sunulmuştur.
 
-⏱️ **Saatlik Kiralama Ücreti:** Kısa süreli ihtiyaçlar için esnek fiyatlandırma.
+⏱️ Saatlik Kiralama Ücreti: Kısa süreli ihtiyaçlar için esnek fiyatlandırma.
 
-📆 **Haftalık Kiralama Ücreti:** Uzun süreli kiralamalarda ekonomik çözümler.
+📆 Haftalık Kiralama Ücreti: Uzun süreli kiralamalarda ekonomik çözümler.
 
-📅 **Aylık Kiralama Ücreti:** Daha uzun dönem ihtiyaçlar için avantajlı fiyatlar.
+📅 Aylık Kiralama Ücreti: Daha uzun dönem ihtiyaçlar için avantajlı fiyatlar.
 
 📖 **Blog Kısmı:** Blog kısmında, araç kiralama ipuçları, araba seçimi, güvenli sürüş gibi konularda bilgilendirici yazılar yer alır.
