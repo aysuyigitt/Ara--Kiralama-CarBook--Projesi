@@ -1,8 +1,10 @@
 **Onion Architecture ile ASP.NET Core Araç Kiralama Sistemi: BookCar 🚗**
 
-BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliştirilmiş bir araç kiralama sistemidir
+BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliştirilmiş bir araç kiralama sistemidir.
+
 
 **🛠️ Katmanlı Mimari**
+
 
 🧩 Core: Uygulamanın temel yapı taşlarını oluşturan arayüzler, Cors yapılandırmaları ve MediatR işlemleri.
 
@@ -14,6 +16,7 @@ BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliş
 
 
 **Kullanılan Teknolojiler**
+
 
 💻 C# ve ASP.NET Core 8.0: Backend geliştirme ve web API altyapısı.
 
@@ -31,6 +34,7 @@ BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliş
 
 
 **🔍 Kullanıcı İşlevleri**
+
 
 📅 Araç Arama ve Listeleme: Kullanıcılar, başlangıç ve bitiş tarihleri ile lokasyon bilgisi girerek araçları arayabilir ve uygun araçları listeleyebilir.
 
