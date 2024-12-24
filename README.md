@@ -50,4 +50,4 @@ BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliş
 
 📅 Aylık Kiralama Ücreti: Daha uzun dönem ihtiyaçlar için avantajlı fiyatlar.
 
-📖 **Blog Kısmı:** Blog kısmında, araç kiralama ipuçları, araba seçimi, güvenli sürüş gibi konularda bilgilendirici yazılar yer alır.
+📖 **Blog Sayfası:** Blog kısmında, araç kiralama ipuçları, araba seçimi, güvenli sürüş gibi konularda bilgilendirici yazılar yer alır.
