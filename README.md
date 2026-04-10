@@ -26,7 +26,7 @@ BookCar, modern yazılım mimarilerinden Onion Architecture kullanılarak geliş
 
 🛠️ **Swagger:** API test ve dokümantasyonu.
 
-🗄️ **MSSQL:** Veritabanı altyapısı.
+🗄️ **MSSQL:** Veritabanı altyapısı
 
 🌐 **HTML ve CSS:** Kullanıcı dostu ve modern bir arayüz tasarlamak için temel web teknolojileri.
 
